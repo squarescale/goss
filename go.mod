@@ -16,10 +16,9 @@ require (
 	github.com/hashicorp/logutils v1.0.0
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/imdario/mergo v0.3.11 // indirect
-	github.com/miekg/dns v1.1.35
+	github.com/miekg/dns v1.1.40
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
-	github.com/moby/sys/mount v0.2.0 // indirect
 	github.com/oleiade/reflections v1.0.1
 	github.com/onsi/gomega v1.10.4
 	github.com/opencontainers/runc v0.0.0-20161107232042-8779fa57eb4a
@@ -28,11 +27,11 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/urfave/cli v1.22.5
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
-	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5 // indirect
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
 	golang.org/x/sys v0.0.0-20210112091331-59c308dcf3cc // indirect
 	golang.org/x/text v0.3.5 // indirect
-	golang.org/x/tools v0.0.0-20210111221946-d33bae441459 // indirect
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
 
